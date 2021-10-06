@@ -1,7 +1,0 @@
-C:\Users\robin.nastrand\source\repos\Static and OOP\Static_and_OOP\bin\Debug\Klass med 2 Metoder.exe.config
-C:\Users\robin.nastrand\source\repos\Static and OOP\Static_and_OOP\bin\Debug\Klass med 2 Metoder.exe
-C:\Users\robin.nastrand\source\repos\Static and OOP\Static_and_OOP\bin\Debug\Klass med 2 Metoder.pdb
-C:\Users\robin.nastrand\source\repos\Static and OOP\Static_and_OOP\obj\Debug\Static_and_OOP.csproj.AssemblyReference.cache
-C:\Users\robin.nastrand\source\repos\Static and OOP\Static_and_OOP\obj\Debug\Static_and_OOP.csproj.CoreCompileInputs.cache
-C:\Users\robin.nastrand\source\repos\Static and OOP\Static_and_OOP\obj\Debug\Klass med 2 Metoder.exe
-C:\Users\robin.nastrand\source\repos\Static and OOP\Static_and_OOP\obj\Debug\Klass med 2 Metoder.pdb
